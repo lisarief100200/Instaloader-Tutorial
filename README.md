@@ -21,8 +21,13 @@ Instaloader is a tool to download pictures (or videos) along with their captions
 
 ## How get Started
 
-- Pastikan Anda men-download python versi terbaru
-- Buka Command Prompt
+- Siapkan aplikasi Python
+- Untuk install libraries Instaloader, buka Command Prompt
 - Ketik "pip install Instaloader"
+- Siapkan akun untuk login, dan akun untuk dijadikan target
+
+# Kontak
+- Novitasari - @novitanovnov_ - sari.novita9911@gmail.com
+- Lisa Arief - @alcanderanshar - lisa.arief10@gmail.com
 
 
