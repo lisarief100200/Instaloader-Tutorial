@@ -3,7 +3,7 @@
 ![img](https://raw.githubusercontent.com/instaloader/instaloader/master/docs/logo_heading.png)
 
 Kami menggunakan Libraries Python Instaloader yang dapat diakses disini :
-![url](https://instaloader.github.io/index.html)
+![Instaloader](https://instaloader.github.io/index.html)
 
 ## About the Project
 
@@ -31,3 +31,4 @@ Instaloader is a tool to download pictures (or videos) along with their captions
 - Lisa Arief - @alcanderanshar - lisa.arief10@gmail.com
 
 
+- Project Link : ![Link]https://github.com/lisarief100200/Instaloader-Tutorial/blob/master/Code.py
