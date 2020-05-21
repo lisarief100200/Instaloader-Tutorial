@@ -9,7 +9,7 @@ import time
 
 username = "budi_subagja17"
 L = instaloader.Instaloader(max_connection_attempts=0)
-L.login("ghost.toon", "nagasakure")
+L.login("username", "pass")
 
 profile = instaloader.Profile.from_username(L.context, username)
 
